@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/padmaja27715/ACS_LabTask/tree/master/0219-contains-duplicate-ii) |
 | [0890-find-and-replace-pattern](https://github.com/padmaja27715/ACS_LabTask/tree/master/0890-find-and-replace-pattern) |
 | [0977-squares-of-a-sorted-array](https://github.com/padmaja27715/ACS_LabTask/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/padmaja27715/ACS_LabTask/tree/master/0219-contains-duplicate-ii) |
 | [0890-find-and-replace-pattern](https://github.com/padmaja27715/ACS_LabTask/tree/master/0890-find-and-replace-pattern) |
 ## String
 |  |
@@ -22,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/padmaja27715/ACS_LabTask/tree/master/0977-squares-of-a-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/padmaja27715/ACS_LabTask/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
