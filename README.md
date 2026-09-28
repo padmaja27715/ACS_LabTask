@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/padmaja27715/ACS_LabTask/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/padmaja27715/ACS_LabTask/tree/master/0387-first-unique-character-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/padmaja27715/ACS_LabTask/tree/master/0890-find-and-replace-pattern) |
 ## Two Pointers
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/padmaja27715/ACS_LabTask/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/padmaja27715/ACS_LabTask/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/padmaja27715/ACS_LabTask/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/padmaja27715/ACS_LabTask/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
