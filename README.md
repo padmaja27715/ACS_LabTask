@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-find-and-replace-pattern](https://github.com/padmaja27715/ACS_LabTask/tree/master/0890-find-and-replace-pattern) |
+| [0977-squares-of-a-sorted-array](https://github.com/padmaja27715/ACS_LabTask/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-find-and-replace-pattern](https://github.com/padmaja27715/ACS_LabTask/tree/master/0890-find-and-replace-pattern) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/padmaja27715/ACS_LabTask/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/padmaja27715/ACS_LabTask/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
