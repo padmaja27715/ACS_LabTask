@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/padmaja27715/ACS_LabTask/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/padmaja27715/ACS_LabTask/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/padmaja27715/ACS_LabTask/tree/master/0704-binary-search) |
 | [0890-find-and-replace-pattern](https://github.com/padmaja27715/ACS_LabTask/tree/master/0890-find-and-replace-pattern) |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/padmaja27715/ACS_LabTask/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/padmaja27715/ACS_LabTask/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/padmaja27715/ACS_LabTask/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/padmaja27715/ACS_LabTask/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -44,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/padmaja27715/ACS_LabTask/tree/master/0704-binary-search) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/padmaja27715/ACS_LabTask/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/padmaja27715/ACS_LabTask/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
